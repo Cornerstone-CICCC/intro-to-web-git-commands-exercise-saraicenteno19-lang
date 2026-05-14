@@ -10,7 +10,7 @@
 2. Navigate into the cloned directory:
    - `cd foldername`
 
-### Part 1: Basic Add and Commits
+### Part 1: Basic Add and Commit
 
 1. Create a new file called `instructions.txt` and write a simple welcome message:
    - `echo "Welcome to My Git Project" > instructions.txt`
